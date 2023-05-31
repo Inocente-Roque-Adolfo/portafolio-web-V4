@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>PORTAFOLIO: ADOLFO INOCENTE ROQUE</title>
+
+    <!--CSS-->
+    <link rel="stylesheet" href="css/styleHeader.css">
+    <link rel="stylesheet" href="css/apuntes.css">
+    <link rel="stylesheet" href="css/portada.css">
+
+    <!--ICONOS-->
+    <script src="https://kit.fontawesome.com/24fd0deea2.js" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body>
+    <div id="headerS1"></div>
+    
+    <div id="opcionesSemanasS1"></div>
+    <div id="anotacionesSemanasS1"></div>
+
+    
+
+
+    <!--SCRIPTS-->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/apuntes.js"></script>
+    <script src="js/json.js"></script>
+    <script src="js/header.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#headerS1').load('header.html');
+            $('#opcionesSemanasS1').load('opcionesSemanas.html');
+            $('#anotacionesSemanasS1').load('anotacionesSemanas.html');
+            // Eliminar contenido cargado
+            
+        });
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,128 @@
+body {
+  background-color: black;
+}
+
+.fila a {
+  text-decoration: none;
+  margin: 30px;
+  /* Espacio alrededor de las celdas */
+}
+
+.container {
+  background-image: url('https://p4.wallpaperbetter.com/wallpaper/673/488/1007/ribbon-rainbow-flow-dark-background-wallpaper-preview.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  height: 79.8vh;
+  display: flex;
+  justify-content: center;
+  padding-top: 150px;
+
+}
+
+.encabezado {
+  color: white;
+}
+
+.matriz {
+  display: grid;
+  grid-template-columns: repeat(2, 600px);
+  /* Ancho de las columnas */
+  gap: 0;
+  /* Espacio entre las celdas */
+}
+
+.fila {
+  display: flex;
+}
+
+.celda {
+  width: 100%;
+  /* Ancho de las celdas */
+  height: 100px;
+  /* Alto de las celdas */
+  background-color: #e0e0e0;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  padding: 10px;
+  box-shadow: 0 0 60px rgb(246, 246, 246);
+  cursor: pointer;
+  color: rgb(12, 90, 219);
+  font-size: 40px;
+  text-transform: uppercase;
+  font-family: 'Muli', sans-serif;
+}
+
+.celda:hover {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+
+.apuntes {
+  background-image: url('https://img.freepik.com/vector-gratis/fondo-semitono-abstracto-ilustracion-vectorial_460848-8962.jpg?w=900&t=st=1685514362~exp=1685514962~hmac=4e9a3487469541c2a1513e2dafc3fb17e0202a2a0e5d95ee65328c19ec5b1eae');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  max-width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 130px 0 0 0;
+}
+
+
+
+.contieneJson {
+  margin: 0 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 50%;
+  min-height: 150px;
+  height: auto;
+  display: inline-block;
+  background-color: white;
+  margin: 10px;
+  padding: 10PX;
+}
+
+.encabezadoJson {
+  color: white;
+}
+
+#contenedorApuntes {
+  display: none;
+}
+
+#verProyecto {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(12, 90, 219);
+  padding: 14px 36px;
+  margin: 0 9px;
+  font-size: 16px;
+  font-family: 'Muli', sans-serif;
+  border-radius: 4px;
+  
+}
+
+#verProyecto:hover{
+  color: rgb(12, 90, 219);
+  background-color: rgb(255, 255, 255);
+  border: 3px solid rgb(12, 90, 219);
+  padding: 15px 37px;
+}

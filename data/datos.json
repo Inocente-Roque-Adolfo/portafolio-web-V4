@@ -1,0 +1,76 @@
+{
+  "clases": [
+    {
+      "semana": "Semana 1",
+      "tema": "Fundamentos de las tecnologías web",
+      "definicion": "Durante la primera semana de clases, nos adentramos en el emocionante mundo de las tecnologías web. Aprendimos sobre diferentes aspectos relacionados con el desarrollo de aplicaciones y sitios web, tanto en el front-end como en el back-end. Comenzamos explorando las aplicaciones para Internet y cómo se utilizan en nuestra vida cotidiana. Descubrimos que estas aplicaciones nos permiten realizar una variedad de tareas, como comunicarnos, realizar compras en línea y acceder a información en tiempo real. Además, nos sumergimos en el desarrollo front-end, donde aprendimos sobre la creación de la interfaz de usuario de un sitio web. Exploramos conceptos y herramientas utilizadas para diseñar y dar vida a la apariencia visual de una página web. Fue fascinante descubrir cómo los elementos de diseño, como colores, fuentes y diseños, pueden influir en la experiencia del usuario.",
+      "procedimientos": "Durante la primera semana, el procedimiento consistió en una presentación detallada por parte del profesor, donde nos introdujo a los fundamentos de las tecnologías web. A través de ejemplos y explicaciones claras, nos enseñó sobre aplicaciones para Internet, desarrollo front-end y desarrollo back-end. Además, nos mostró cómo crear mockups y diseñar una experiencia de usuario atractiva en una aplicación web. Fue una semana llena de aprendizaje práctico y emocionante, donde pudimos comprender mejor cómo se construyen y desarrollan las tecnologías web.",
+      "resultado": "Durante la primera semana, como resultado de nuestro aprendizaje, adquirimos una comprensión básica de los fundamentos de las tecnologías web, incluyendo aplicaciones para Internet, desarrollo front-end y desarrollo back-end. Además, obtuvimos conocimientos sobre el diseño de una experiencia de usuario atractiva mediante el uso de mockups. Estos resultados nos proporcionaron una base sólida para seguir explorando y desarrollando nuestras habilidades en el campo de las tecnologías web en las próximas semanas.",
+      "proyecto": "Creacion de portafolio en FIGMA",
+      "url": "https://www.figma.com/file/WMXTyQWkvQ7HG5QymASbkn/adolfo?type=design&node-id=0%3A1&t=XlbRK4f6gLz4xXAE-1"
+    },
+    {
+      "semana": "Semana 2",
+      "tema": "Lenguaje Marcado de Hipertexto, Hojas de Estilos",
+      "definicion": "Aprendimos que el Lenguaje Marcado de Hipertexto es utilizado para estructurar y organizar el contenido de una página web, mientras que las Hojas de Estilos se encargan de definir la apariencia y presentación visual de esa página. Además, nos familiarizamos con diferentes herramientas como la interfaz de usuario, la paleta de comandos y la terminal de comandos, así como con extensiones para el desarrollo web. Estas herramientas nos permitieron trabajar de manera más eficiente y productiva en el desarrollo de nuestros proyectos. Fue emocionante descubrir cómo podemos utilizar estas tecnologías para crear sitios web atractivos y funcionales.",
+      "procedimientos": "También exploramos el uso de hojas de estilos y librerías para definir la apariencia y diseño visual de nuestros sitios. Como parte de los procedimientos, llevamos a cabo el Trabajo 01: Desarrollo de sitio web, donde pusimos en práctica nuestros conocimientos y habilidades adquiridas hasta el momento. Durante este proceso, aprendimos sobre prácticas recomendadas y utilizamos herramientas como EMMET para agilizar y optimizar nuestro flujo de trabajo. ",
+      "resultado": " A medida que nos sumergimos en la práctica del desarrollo de sitios web, pudimos aplicar de manera efectiva el lenguaje marcado de hipertexto para estructurar el contenido y utilizar hojas de estilos para dar estilo y diseño a nuestras páginas. A través del Trabajo 01: Desarrollo de sitio web, pudimos poner en práctica nuestros conocimientos y experimentar con diferentes herramientas y técnicas. Además, el uso de EMMET nos permitió optimizar nuestro flujo de trabajo y aumentar nuestra productividad.",
+      "proyecto": "Practica EMMET",
+      "url": "https://github.com/Inocente-Roque-Adolfo/Practica-EMMET"
+    },
+    {
+      "semana": "Semana 3",
+      "tema": "Programación Front-End Javascript",
+      "definicion": "En la tercera semana del curso, nos adentramos en el mundo de la programación Front-End utilizando Javascript. Durante este período, nos enfocamos en desarrollar la interfaz de usuario y la lógica que se ejecuta en el navegador del usuario. Aprendimos a utilizar Javascript para agregar interactividad y funcionalidades a nuestros sitios web, lo cual nos permitió crear experiencias web más dinámicas y atractivas para los usuarios.",
+      "procedimientos": "Además, profundizamos en el uso de booleanos, funciones y funciones flecha, que nos permitieron crear bloques de código más estructurados y reutilizables. También nos introdujimos en el fascinante mundo de los gráficos, donde aprendimos a utilizarlos para crear visualizaciones impactantes en nuestras aplicaciones web. ",
+      "resultado": "A medida que exploramos los diferentes conceptos y procedimientos, adquirimos la capacidad de desarrollar la interfaz de usuario y la lógica en el navegador del usuario utilizando Javascript.",
+      "proyecto": "Clonacion del Front-End de Paginas Web",
+      "url": "https://inocente-roque-adolfo.github.io/Clonacion-Paginas/"
+    },
+    {
+      "semana": "Semana 4",
+      "tema": "Manejo del DOM con Javascript",
+      "definicion": "Durante la cuarta semana del curso, nos adentramos en el manejo del DOM (Document Object Model) con Javascript. En resumen, aprendimos a interactuar y manipular los elementos HTML de una página web utilizando Javascript. Esta habilidad nos permitió agregar dinamismo y funcionalidades a nuestras aplicaciones web, ya que pudimos modificar y actualizar el contenido, estilos y estructura de la página de forma dinámica.",
+      "procedimientos": "Aprendimos a utilizar métodos y propiedades para acceder y manipular elementos HTML. Además, nos adentramos en la modificación de estilos y la creación de animaciones mediante el uso de Javascript. ",
+      "resultado": "Aplicamos nuestros conocimientos adquiridos para crear un juego interactivo. Estos resultados nos brindaron confianza en nuestras habilidades y nos motivaron a seguir explorando y mejorando en el manejo del DOM con Javascript.",
+      "proyecto": "Desarrollo de un juego con Javascript 'Pelota'",
+      "url": "https://inocente-roque-adolfo.github.io/Juego-pelota/"
+    },
+    {
+      "semana": "Semana 5",
+      "tema": "Desarrollo FrontEnd con Framework JS",
+      "definicion": "Durante la quinta semana del curso, nos adentramos en el desarrollo FrontEnd con un Framework JS. En resumen, aprendimos que un framework de JavaScript proporciona una estructura y conjunto de herramientas predefinidas que facilitan el desarrollo de aplicaciones web. Estos frameworks nos permiten agilizar el proceso de creación de aplicaciones al ofrecer soluciones y patrones de diseño establecidos, lo que nos ayuda a desarrollar aplicaciones de manera más eficiente y escalable.",
+      "procedimientos": "Realizamos la instalación del proyecto y configuramos las dependencias necesarias. Durante este proceso, también nos adentramos en el desarrollo basado en componentes utilizando JSX, PROPS y CHILDREN, lo cual nos permitió crear interfaces web más dinámicas y reutilizables.",
+      "resultado": "Aprendimos a utilizar el framework para desarrollar aplicaciones web de manera más eficiente y escalable. Mediante la estructura y operación del framework, así como la gestión de dependencias y el uso de herramientas de creación de proyectos, logramos agilizar el proceso de desarrollo. Además, a través del laboratorio de instalación del proyecto y configuración de dependencias, adquirimos experiencia práctica en la implementación de un entorno de desarrollo utilizando el framework. ",
+      "proyecto": "Desarrollo de consumo de archi JSON / API",
+      "url": "https://inocente-roque-adolfo.github.io/ejercicio-2_Json/"
+    },
+    {
+      "semana": "Semana 6",
+      "tema": "Eventos, Condicionales y Bucles con Framework JS",
+      "definicion": "Utilización de Estilos en Framework JS",
+      "procedimientos": "Eventos, Renderizado condicional / Renderizado iterativo, Formularios, Laboratorio 02A: Eventos y Renderizado Condicional e iterativo",
+      "resultado": "Styles inline / Style Sheets / Styles Modules, Styles components / Framework CSS, Laboratorio 02B: Uso de estilos",
+      "proyecto": "Desarrollo basado en componentes JSX / PROPS / CHILDREN",
+      "url": "https://github.com/Inocente-Roque-Adolfo/probando-react.git"
+    },
+    {
+      "semana": "Semana 7",
+      "tema": "Desarrollo de la Practica Calificada",
+      "definicion": "Durante la semana 7 del curso, nos enfrentamos a la práctica calificada. ",
+      "procedimientos": "Durante la ejecución, aplicamos los conocimientos y habilidades adquiridos hasta ese punto del curso para resolver los problemas planteados y desarrollar la actividad asignada.",
+      "resultado": "La práctica calificada es importante en nuestra evaluación y nos permite mostrar nuestro progreso y crecimiento como estudiantes.",
+      "proyecto": "Desarrollo de 5 ejercicios como componentes en REACT",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 8",
+      "tema": "Primer Consolidado",
+      "definicion": "Durante la semana 8 del curso, nos enfrentamos a la examen parcial del primer consolidado. ",
+      "procedimientos": "Durante la ejecución, aplicamos los conocimientos y habilidades adquiridos hasta ese punto del curso para resolver los problemas planteados y desarrollar la actividad asignada.",
+      "resultado": "Nuestra evaluación y nos permite mostrar nuestro progreso y crecimiento como estudiantes.",
+      "proyecto": "Desarrollo de 3 ejercicios en REACT y VITE",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    }
+  ]
+}
