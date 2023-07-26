@@ -71,6 +71,80 @@
       "resultado": "Nuestra evaluación y nos permite mostrar nuestro progreso y crecimiento como estudiantes.",
       "proyecto": "Desarrollo de 3 ejercicios en REACT y VITE",
       "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 9",
+      "tema": "Routing & consume API",
+      "definicion": "Front-end routing se refiere a la práctica de gestionar las rutas y la navegación dentro de una aplicación de una sola página (SPA). React-Router es una librería popular en React que facilita la implementación del enrutamiento en una aplicación.",
+      "procedimientos": "Para consumir una API desde el front-end, se utilizan promesas o async/await en JavaScript. Las promesas permiten manejar operaciones asincrónicas, mientras que async/await es una sintaxis más limpia para trabajar con promesas.",
+      "resultado": "El resultado del laboratorio 03 fue la creación de un caso práctico para el consumo de una API en una aplicación React. Se abordó la creación del proyecto, la configuración de dependencias necesarias y la creación de rutas para navegar entre diferentes componentes de formulario.",
+      "proyecto": "Laboratorio 03: Caso práctico consumo de API – Parte 1",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 10",
+      "tema": "Uso de Hooks",
+      "definicion": "Los Hooks son funciones especiales proporcionadas por React que permiten agregar características de React a componentes de función. Algunos de los Hooks más utilizados son UseState, UseEffect, UseContext, UseRef, UseReducer, UseCallback y useMemo. Estos Hooks facilitan el manejo del estado, el ciclo de vida, la gestión de contextos y otras funcionalidades en los componentes de función.",
+      "procedimientos": "Para utilizar los Hooks, simplemente los importamos desde 'react' y los utilizamos dentro del cuerpo de nuestro componente de función. Por ejemplo, UseState nos permite agregar estado local a nuestros componentes, UseEffect se utiliza para manejar efectos secundarios, UseContext para acceder a contextos, y así sucesivamente.",
+      "resultado": "En el laboratorio 04, se continuó con el caso práctico de consumo de una API en una aplicación React. En esta parte 2, se enfocó en el uso de Hooks para implementar diversas funcionalidades en los componentes de función. Se crearon componentes de formulario que permiten la inserción, actualización y eliminación de objetos, aprovechando los diferentes Hooks para gestionar el estado y las interacciones con la API.",
+      "proyecto": "Laboratorio 04: Caso práctico consumo de API – Parte 2",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 11",
+      "tema": "Next JS – CSR / SSR",
+      "definicion": "Next.js es un marco de desarrollo web de React que facilita la creación de aplicaciones web con renderizado del lado del servidor (SSR) y renderizado del lado del cliente (CSR). Permite a los desarrolladores aprovechar ambos enfoques para mejorar el rendimiento y la experiencia del usuario.",
+      "procedimientos": "Durante esta semana, los procedimientos incluyeron la creación del proyecto en Next.js, la configuración del enrutamiento en Next, y la implementación de estilos y formularios en las aplicaciones. Los estilos se pueden aplicar utilizando CSS o módulos CSS en Next.js, mientras que los formularios pueden ser gestionados con las funcionalidades proporcionadas por React.",
+      "resultado": "Se llevaron a cabo ejercicios prácticos en los que los estudiantes desarrollaron aplicaciones utilizando Next.js. Aprendieron a aprovechar el renderizado del lado del servidor para mejorar la velocidad de carga y el SEO de las páginas, mientras que también implementaron el renderizado del lado del cliente para proporcionar una experiencia interactiva.",
+      "proyecto": "Exposición de Proyectos",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 12",
+      "tema": "Gestión de rutas en Next.js con React",
+      "definicion": "Durante esta semana, los estudiantes se centraron en aprender cómo gestionar las rutas en aplicaciones web desarrolladas con Next.js y React. La gestión de rutas es esencial para permitir la navegación entre diferentes páginas y componentes en una aplicación de una sola página (SPA).",
+      "procedimientos": "Los estudiantes exploraron cómo utilizar el enrutador integrado de Next.js para definir y gestionar las rutas de la aplicación. Aprendieron a crear rutas dinámicas y parametrizadas, que les permitieron construir aplicaciones más interactivas y amigables para el usuario.",
+      "resultado": "Al finalizar la semana, los estudiantes adquirieron habilidades sólidas en la gestión de rutas en Next.js y React. Pudieron implementar una navegación fluida y eficiente dentro de sus aplicaciones, mejorando la experiencia del usuario y facilitando el acceso a diferentes partes del contenido.",
+      "proyecto": "Aplicación Web con Gestión Avanzada de Rutas",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 13",
+      "tema": "Spring con Servlet",
+      "definicion": "Spring con Servlet es una combinación poderosa para desarrollar aplicaciones web en Java. Spring proporciona una infraestructura completa y flexible para el desarrollo de aplicaciones empresariales, mientras que los Servlets son componentes de Java que permiten la creación de contenido dinámico en el lado del servidor para aplicaciones web.",
+      "procedimientos": "Durante esta semana, los estudiantes se enfocaron en aprender cómo integrar Spring con Servlets para desarrollar aplicaciones web completas. Aprendieron a configurar el proyecto con Spring, manejar dependencias, implementar Servlets, definir rutas, gestionar la persistencia de datos y trabajar con tecnologías como JSP (JavaServer Pages) para la generación de vistas dinámicas.",
+      "resultado": "Al finalizar la semana, los estudiantes adquirieron habilidades para desarrollar aplicaciones web sólidas utilizando Spring con Servlets. Comprendieron cómo aprovechar la funcionalidad proporcionada por Spring para implementar lógica de negocio y cómo los Servlets les permiten generar contenido dinámico y responder a las solicitudes del cliente.",
+      "proyecto": "Desarrollo de Aplicación Web con Spring y Servlet",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 14",
+      "tema": "API RESTFUL con SPRINT BOOT",
+      "definicion": "Una API RESTful es una interfaz de programación de aplicaciones que sigue los principios del estilo arquitectónico REST (Representational State Transfer). Está diseñada para permitir la comunicación entre diferentes sistemas a través de solicitudes HTTP. Spring Boot es un framework de desarrollo de aplicaciones Java que simplifica y acelera el proceso de creación de API RESTful.",
+      "procedimientos": "Durante esta semana, los procedimientos incluyeron la creación de una API RESTful utilizando Spring Boot. Los estudiantes aprendieron a configurar y desarrollar la arquitectura de la API, definir los puntos finales (endpoints) y gestionar las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en una base de datos.",
+      "resultado": "Al finalizar la semana, los estudiantes adquirieron conocimientos sobre cómo crear una API RESTful funcional y escalable utilizando Spring Boot. Comprendieron cómo estructurar los recursos y rutas de la API, implementar lógica de negocio y gestionar el intercambio de datos en formato JSON u otros formatos.",
+      "proyecto": "Java y Spring - API RESTFUL con SPRINT BOOT",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 15",
+      "tema": "API RESTful, Modelos y Integración de MySQL",
+      "definicion": "Durante esta semana, los estudiantes continuaron explorando el desarrollo de API RESTful y se centraron en la creación de modelos de datos y su integración con la base de datos MySQL. Los modelos son esenciales para representar y organizar los datos de la aplicación, mientras que la integración de MySQL permite persistir y recuperar los datos de manera eficiente.",
+      "procedimientos": "Los estudiantes aprendieron a definir y diseñar modelos de datos utilizando herramientas como Mongoose (para aplicaciones Node.js) o JPA (Java Persistence API) para aplicaciones Java. Además, se revisaron conceptos relacionados con la creación y manipulación de tablas en MySQL, así como el uso de consultas SQL para interactuar con la base de datos.",
+      "resultado": "Al finalizar la semana, los estudiantes lograron implementar una API RESTful completa con modelos de datos bien estructurados y una integración sólida con MySQL. Pudieron realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) en la base de datos a través de la API, proporcionando un servicio completo para la gestión de datos.",
+      "proyecto": "Desarrollo de API RESTful con Modelos y MySQL",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
+    },
+    {
+      "semana": "Semana 16",
+      "tema": "Revisión de evaluación conceptual 03",
+      "definicion": "Durante esta semana, se llevó a cabo una revisión exhaustiva de la evaluación conceptual 03, que abarcó los temas y conceptos clave aprendidos hasta esta etapa del curso. La revisión permitió a los estudiantes repasar y reforzar su comprensión de los conceptos evaluados.",
+      "procedimientos": "La revisión de la evaluación conceptual 03 implicó la realización de ejercicios prácticos, ejemplos y preguntas relacionadas con los temas del curso. Los estudiantes tuvieron la oportunidad de aclarar dudas, discutir conceptos y profundizar en los aspectos más importantes del material estudiado.",
+      "resultado": "Como resultado de la revisión, los estudiantes tuvieron una mejor comprensión de los conceptos clave del curso y se prepararon para la siguiente etapa del proceso de aprendizaje.",
+      "proyecto": "Segundo consolidado de la evaluación continua y reforzamiento",
+      "url": "https://github.com/Inocente-Roque-Adolfo?tab=repositories"
     }
+    
+        
   ]
 }
